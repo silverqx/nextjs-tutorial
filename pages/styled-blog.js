@@ -18,18 +18,18 @@ const PostLink = ({ post }) => (
 
     <style jsx>{`
       li {
-        list-style: none
-        margin: 5px 0
+        list-style: none;
+        margin: 5px 0;
       }
 
       a {
-        color: blue
-        font-family: 'Arial'
-        text-decoration: none
+        color: blue;
+        font-family: 'Arial';
+        text-decoration: none;
       }
 
       a:hover {
-        opacity: 0.6
+        opacity: 0.6;
       }
     `}</style>
   </li>
@@ -46,11 +46,11 @@ export default function Blog() {
       </ul>
       <style jsx>{`
         h1 {
-          font-family: 'Arial'
+          font-family: 'Arial';
         }
 
         ul {
-          padding: 0
+          padding: 0;
         }
       `}</style>
     </Layout>
