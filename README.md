@@ -2,6 +2,8 @@
 
 This is my Next.js test application, created according to the [tutorial](https://nextjs.org/learn/basics/getting-started).
 
+Application is deployed at https://nextjs-tutorial.silver1.now.sh
+
 ## Installation
 
 * `git clone https://github.com/silverqx/nextjs-tutorial`
@@ -13,5 +15,4 @@ This is my Next.js test application, created according to the [tutorial](https:/
 ## Deploy to production to Zeit Now
 
 * first [download Now](https://zeit.co/download), it's `npm i -g now`
-* call `now` from root directory
-
+* call `now` or `now --prod` for production from root directory
